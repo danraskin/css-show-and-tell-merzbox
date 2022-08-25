@@ -1,5 +1,11 @@
 # CSS Show and Tell
 
+## PLANS ##
+
+organize using CSS grid (?)
+center header on horizontal scroll
+jquery interactivity where order of albums/flexboxes rotate on click
+
 Research something related to CSS!
 
 1. Create a new GitHub repository with a quick demo or example code (HTML/CSS) showing what you researched. 

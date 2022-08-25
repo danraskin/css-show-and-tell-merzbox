@@ -1,0 +1,68 @@
+.container {
+}
+
+   
+.merz {
+    display: flex;
+
+    flex-direction: row;
+    align-content:flex-end;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    background-color: dimgrey;
+    text-align: center;
+}
+
+
+
+
+#GreatAmericanNude {
+    order: 0;
+}
+
+#Noisembryo {
+    order: 1;
+}
+
+#Venerology {
+    order: 2;
+
+} 
+
+#ElectricSalad {    order: 3;
+
+} 
+#PulseDemon {    order: 4;
+
+} 
+#SpiralHoney {
+    order: 5;
+
+} 
+#SpaceMetalizer {
+    order: 6;
+
+}
+#Vibractance {
+    order: 7;
+
+}
+#Psychorazer {
+    order: 8;
+
+}
+#AquaNecromancer {
+    order: 9;
+
+}
+#Tauromachine {
+    order: 10;
+
+}
+#Tentacle {    order: 11;
+
+}
